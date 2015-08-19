@@ -18,7 +18,7 @@ namespace zalacznikX
         if (Environment.UserInteractive)
         {
             string parameter = string.Concat(args);
-            
+            string test = "test"  ;
             switch (parameter)
             {
                 case "--install":
