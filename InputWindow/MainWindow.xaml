@@ -1,0 +1,20 @@
+﻿<Window x:Class="InputWindow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ZalacznikX" Height="176.819" Width="396.865">
+    <Grid>
+        <TextBox Name="mailAddress" FontSize="14" HorizontalAlignment="Left" Height="26" Margin="166,9,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="214" FontFamily="Verdana"
+                 TextAlignment="Left"
+                 KeyboardNavigation.TabIndex="0"/>
+        <Button Content="Zapisz" HorizontalAlignment="Left" Height="50" Margin="166,77,0,0" VerticalAlignment="Top" Width="214" Click="Button_Click"
+                KeyboardNavigation.TabIndex="2"/>
+        <PasswordBox Name="pswd" HorizontalAlignment="Left" Margin="166,40,0,0" VerticalAlignment="Top" Width="214" Height="32"
+                     PasswordChar="$" FontSize="14" FontFamily="Verdana"
+                     KeyboardNavigation.TabIndex="1"/>
+        <Label Content="Adres skrzynki pocztowej" HorizontalAlignment="Left" Height="25" Margin="10,10,0,0" VerticalAlignment="Top" Width="151"
+               KeyboardNavigation.IsTabStop="False"/>
+        <Label Content="Hasło do skrzynki pocztowej" HorizontalAlignment="Left" Margin="10,40,0,86.2" Width="151"
+               KeyboardNavigation.IsTabStop="False"/>
+
+    </Grid>
+</Window>

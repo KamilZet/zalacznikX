@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zalacznikX", "zalacznikX\zalacznikX.csproj", "{C7489B42-E040-44D5-B2B9-A1ED07F7F45D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputWindow", "InputWindow\InputWindow.csproj", "{EEBE04DE-8EA9-4CBF-B894-638CA97C7A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7489B42-E040-44D5-B2B9-A1ED07F7F45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7489B42-E040-44D5-B2B9-A1ED07F7F45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7489B42-E040-44D5-B2B9-A1ED07F7F45D}.Debug|x86.ActiveCfg = Debug|x86
+		{C7489B42-E040-44D5-B2B9-A1ED07F7F45D}.Debug|x86.Build.0 = Debug|x86
+		{C7489B42-E040-44D5-B2B9-A1ED07F7F45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7489B42-E040-44D5-B2B9-A1ED07F7F45D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7489B42-E040-44D5-B2B9-A1ED07F7F45D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C7489B42-E040-44D5-B2B9-A1ED07F7F45D}.Release|x86.ActiveCfg = Release|x86
+		{C7489B42-E040-44D5-B2B9-A1ED07F7F45D}.Release|x86.Build.0 = Release|x86
+		{EEBE04DE-8EA9-4CBF-B894-638CA97C7A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBE04DE-8EA9-4CBF-B894-638CA97C7A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBE04DE-8EA9-4CBF-B894-638CA97C7A59}.Debug|x86.ActiveCfg = Debug|x86
+		{EEBE04DE-8EA9-4CBF-B894-638CA97C7A59}.Debug|x86.Build.0 = Debug|x86
+		{EEBE04DE-8EA9-4CBF-B894-638CA97C7A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBE04DE-8EA9-4CBF-B894-638CA97C7A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBE04DE-8EA9-4CBF-B894-638CA97C7A59}.Release|x86.ActiveCfg = Release|x86
+		{EEBE04DE-8EA9-4CBF-B894-638CA97C7A59}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
